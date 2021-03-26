@@ -8,12 +8,10 @@ gevent==20.6.2
 gunicorn
 itsdangerous==1.1.0
 Jinja2==2.11.2
-pillow==7.2.0
+pillow
 MarkupSafe==1.1.1
-numpy==1.18.1
-pandas==1.0.1
+numpy
 pytz==2019.3
-scipy==1.2.1
 pycryptodomex
 six==1.14.0
 Werkzeug==1.0.1
